@@ -1,0 +1,9 @@
+{
+  "appId": "com.digitalelitelab.app",
+  "appName": "Digital Elite Lab",
+  "webDir": "dist",
+  "server": {
+    "url": "https://digitalelitelabe.netlify.app/",
+    "cleartext": true
+  }
+}
